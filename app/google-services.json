@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "596184576351",
+    "firebase_url": "https://proint-76c89-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "proint-76c89",
+    "storage_bucket": "proint-76c89.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596184576351:android:a536e73b01313c617906ea",
+        "android_client_info": {
+          "package_name": "com.smartvisions.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCym91ybH0FfEtqnGvtqz8899dgK7KwgFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
